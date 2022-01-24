@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\vitze\source\repos\DH\DH\Source.cpp(36,13): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\vitze\source\repos\DH\DH\Source.cpp(51,13): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 48 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  DH.vcxproj -> C:\Users\vitze\source\repos\DH\Release\DH.exe

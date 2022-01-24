@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\vitze\source\repos\DH\DH\Source.cpp(28,16): warning C4244: аргумент: преобразование "unsigned __int64" в "long", возможна потеря данных
+C:\Users\vitze\source\repos\DH\DH\Source.cpp(43,16): warning C4244: аргумент: преобразование "unsigned __int64" в "long", возможна потеря данных
+  DH.vcxproj -> C:\Users\vitze\source\repos\DH\Debug\DH.exe
